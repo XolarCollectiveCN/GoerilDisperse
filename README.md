@@ -10,14 +10,13 @@
 
 在项目目录中运行以下命令以安装所需的依赖库：
 
-```bash
+
 npm install
 
 ## CSV文件格式
-
 https://goerli.infura.io/v3/your-api-key,0x0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef,0x0A2bb5FAe5F4F75D5b2A364bd7543C3764Da542c
 
 ##运行
-
+```bash
 node interactWithDisperse.mjs
 
