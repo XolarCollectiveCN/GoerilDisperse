@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "csv-string": "^4.1.1",
+    "inquirer": "^9.1.5",
+    "type": "module",
+    "web3": "^1.9.0"
+  }
+}
