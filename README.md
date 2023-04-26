@@ -14,8 +14,7 @@
 npm install
 
 ## CSV文件格式
-```bash
-https://goerli.infura.io/v3/your-api-key,0x0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef,0x0A2bb5FAe5F4F75D5b2A364bd7543C3764Da542c
+RPC,私钥,合约地址
 
 ##运行
 ```bash
