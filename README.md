@@ -16,7 +16,7 @@ npm install
 ## CSV文件格式
 RPC,私钥,合约地址
 
-##运行
+## 运行
 ```bash
 node interactWithDisperse.mjs
 
